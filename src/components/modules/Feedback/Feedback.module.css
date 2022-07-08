@@ -1,0 +1,35 @@
+.title {
+    margin: 30px 0;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .wrap {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    margin-bottom: 30px;
+    list-style: none;
+  }
+  
+  .btn {
+    border: 1px solid darkcyan;
+    background-color: white;
+    color: darkcyan;
+    border-radius: 5px;
+    padding: 5px 15px;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .list {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .result {
+    color: darkcyan;
+  }
+  
+  .message {
+    font-family: 'Roboto', sans-serif;
+    color: darkcyan;
+  }
